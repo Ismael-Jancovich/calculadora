@@ -1,0 +1,80 @@
+.calculadora{
+    background-color: rgb(43, 43, 43);
+    height: 510px;
+    width: 270px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+
+button {
+    width: 50px;
+    height: 80px;
+    font-size: 45px;
+    margin: 5px;
+    background-color: #edefc4;
+}
+
+
+.resultadoDeCalculadora {
+    background-color: #6aa36a;
+    width: 250px;
+    height: 50px;
+    font-size: 40px;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    margin: 10px;
+}
+
+
+.primeroCuatro{
+display: flex;
+}
+.segundosCuatro{
+    display: flex;
+}
+.tercerosCuatro{
+    display: flex;
+}
+.cuartosCuatro{
+    display: flex;
+}
+
+.botonesCalculadora{
+
+}
+
+
+.botonIgual{
+    background-color: #d98a2c;
+    color: white;
+}
+
+.botonMas{
+    background-color: #464299;
+    color: white;
+}
+
+.botonModulo{
+    background-color: #81a12f;
+    color: white;
+}
+
+.botonMenos{
+    background-color: #b75a40;
+    color: white;
+}
+
+.botonMultiplicar{
+    background-color: #2db3b3;
+    color: white;
+}
+
+.botonDividir{
+    background-color: #2db348;
+    color: white;
+
+}
